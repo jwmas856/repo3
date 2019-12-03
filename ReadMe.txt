@@ -1,4 +1,5 @@
 Initial Version
 Hello Michael.
 HI MICHAEL
-d
+This was a bad idea.
+this was after the bad idea
